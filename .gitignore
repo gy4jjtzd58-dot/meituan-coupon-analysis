@@ -1,0 +1,13 @@
+# 本地原始数据、数据库、制作工程和历史版本
+/_local/
+*.duckdb
+*.duckdb.wal
+/06 美团业务选题-优惠券投放提效分析-数据*.csv
+
+# Office 和文件管理器临时文件
+~$*
+Thumbs.db
+.DS_Store
+
+# 整理过程的暂存目录
+/.organize-stage/
